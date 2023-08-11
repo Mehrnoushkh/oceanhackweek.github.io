@@ -41,7 +41,9 @@ Projects from OceanHackWeek 2023.
 
 ### Machine learning for Argo Data QC
 
-- Project members: TO-BE-FILLED-IN!
+- Project members: Tobias Ferreira, Mehrnoush Kharghani, Dina Soltani Tehrani, Rob Urick
+
+
 - GitHub repository: [https://github.com/oceanhackweek/ohw23_proj_argo_ml](https://github.com/oceanhackweek/ohw23_proj_argo_ml)
 - Presentation recording(s)
 <!-- - [Project pitch slide](https://docs.google.com/presentation/d/1eQKSdFHNGMDqGJMY4d-yGnNm4UrUj5kIS2mLQGPMZC8/edit#slide=id.g25fbb98e25a_14_0) -->
